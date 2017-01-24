@@ -1,0 +1,50 @@
+#server settings
+server:
+    port : 8080
+    address : 127.0.0.1
+    sessionTimeout : 30
+    #contextPath : /
+    #Tomcat specifics
+    tomcat:
+        accessLogEnabled : false
+        protocolHeader : x-forwarded-proto
+        remoteIpHeader : x-forwarded-for
+        basedir:
+        backgroundProcessorDelay : 30 # secs
+logging:
+    config : classpath:logback.xml
+    level :
+      org.springframework : ERROR
+      com.winqer : DEBUG
+jwt:
+  header: Authorization
+  secret: lietouku-yang
+  expiration: 604800
+  route:
+    authentication:
+      path: auth
+      refresh: refresh
+spring :
+    datasource :
+        url: jdbc:mysql://127.0.0.1:3306/test
+        username: root
+        password: 
+        driver-class-name: com.mysql.jdbc.Driver
+    profiles :
+        active: RELEASE
+    jpa :
+        database : MYSQL
+        show-sql : true
+        generate-ddl : true
+        hibernate :
+            ddl-auto : update
+            naming-strategy : org.hibernate.cfg.ImprovedNamingStrategy
+        properties:
+            hibernate :
+                dialect : org.hibernate.dialect.MySQL5Dialect
+    freemarker :
+            suffix : .ftl
+            request-context-attribute : request
+            expose-request-attributes : true
+    jackson:
+            date-format : yyyy-MM-dd HH:mm:ss

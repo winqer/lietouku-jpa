@@ -1,0 +1,216 @@
+2016-11-07 14:29:08.148 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 2652 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 14:29:08.155 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 14:29:08.155 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 14:29:11.643 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 14:29:11.652 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 14:29:11.794 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 14:29:12.157 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 14:29:12.158 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 14:29:12.583 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 14:29:12.696 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 14:29:12.699 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 14:29:12.701 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 14:29:12.771 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 14:29:19.145 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 14:29:19.949 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 14:29:22.451 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 35.245 seconds (JVM running for 41.037)
+2016-11-07 14:36:38.456 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 2671 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 14:36:38.464 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 14:36:38.464 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 14:36:42.651 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 14:36:42.652 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 14:36:42.857 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 14:36:43.264 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 14:36:43.264 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 14:36:43.867 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 14:36:44.070 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 14:36:44.073 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 14:36:44.076 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 14:36:44.190 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 14:36:50.312 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 14:36:51.107 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 14:36:53.737 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 36.164 seconds (JVM running for 42.04)
+2016-11-07 14:39:58.303 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 14:41:48.547 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:42:00.646 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:43:40.564 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:44:25.814 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 2696 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 14:44:25.820 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 14:44:25.820 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 14:44:29.495 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 14:44:29.497 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 14:44:29.645 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 14:44:29.950 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 14:44:29.951 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 14:44:30.539 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 14:44:30.684 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 14:44:30.686 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 14:44:30.689 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 14:44:30.752 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 14:44:36.958 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 14:44:37.655 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 14:44:40.063 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 34.996 seconds (JVM running for 40.86)
+2016-11-07 14:44:41.302 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 14:46:16.663 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:46:38.433 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - sigin...
+2016-11-07 14:46:38.512 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - sigin...
+2016-11-07 14:46:50.279 [http-nio-127.0.0.1-8080-exec-7] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:46:50.374 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:47:16.657 [http-nio-127.0.0.1-8080-exec-9] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:47:36.183 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:47:46.322 [http-nio-127.0.0.1-8080-exec-1] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:48:31.671 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:48:33.114 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:51:22.423 [http-nio-127.0.0.1-8080-exec-7] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:51:27.978 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:52:13.917 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:52:41.189 [http-nio-127.0.0.1-8080-exec-3] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:53:10.017 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:54:06.619 [http-nio-127.0.0.1-8080-exec-9] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:54:21.387 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:54:35.166 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 14:55:18.816 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:56:40.675 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:59:20.753 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 14:59:56.677 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:00:24.530 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:01:09.432 [http-nio-127.0.0.1-8080-exec-7] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:01:29.272 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:06:21.842 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:06:57.019 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:09:43.592 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:09:54.563 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:10:00.735 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:13:07.282 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 2944 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 15:13:07.291 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 15:13:07.292 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 15:13:11.262 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 15:13:11.265 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 15:13:11.428 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 15:13:11.780 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 15:13:11.780 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 15:13:12.256 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 15:13:12.483 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 15:13:12.486 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 15:13:12.489 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 15:13:12.607 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 15:13:18.894 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 15:13:19.721 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 15:13:22.257 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 36.022 seconds (JVM running for 42.136)
+2016-11-07 15:13:34.039 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 15:13:34.537 [http-nio-127.0.0.1-8080-exec-1] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:13:41.504 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:13:52.740 [http-nio-127.0.0.1-8080-exec-3] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:13:55.388 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:15:09.257 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:15:42.573 [http-nio-127.0.0.1-8080-exec-3] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:15:54.641 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:17:22.158 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:17:25.725 [http-nio-127.0.0.1-8080-exec-9] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:18:11.017 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:18:14.448 [http-nio-127.0.0.1-8080-exec-1] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:18:17.291 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:19:25.784 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:19:36.051 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:20:04.505 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:20:10.133 [http-nio-127.0.0.1-8080-exec-7] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:20:22.258 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:31:28.595 [http-nio-127.0.0.1-8080-exec-3] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:31:33.977 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:32:01.503 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:32:04.335 [http-nio-127.0.0.1-8080-exec-7] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:32:12.699 [http-nio-127.0.0.1-8080-exec-9] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:32:15.893 [http-nio-127.0.0.1-8080-exec-1] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 15:32:33.504 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:33:10.370 [http-nio-127.0.0.1-8080-exec-5] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:47:22.398 [http-nio-127.0.0.1-8080-exec-8] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 15:47:28.863 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 16:41:39.933 [http-nio-127.0.0.1-8080-exec-4] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 16:41:44.929 [http-nio-127.0.0.1-8080-exec-6] DEBUG com.winqer.lietouku2.controller.LoginController - login...
+2016-11-07 16:51:06.706 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 3468 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 16:51:06.713 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 16:51:06.713 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 16:51:10.397 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 16:51:10.399 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 16:51:10.595 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 16:51:11.090 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 16:51:11.091 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 16:51:11.548 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 16:51:11.717 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 16:51:11.720 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 16:51:11.723 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 16:51:11.814 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 16:51:18.331 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 16:51:19.157 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 16:51:21.873 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 36.253 seconds (JVM running for 42.4)
+2016-11-07 16:51:24.220 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 16:58:45.760 [http-nio-127.0.0.1-8080-exec-10] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 16:59:34.304 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 3497 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 16:59:34.318 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 16:59:34.319 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 16:59:39.051 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 16:59:39.053 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 16:59:39.241 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 16:59:39.655 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 16:59:39.655 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 16:59:40.285 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 16:59:40.533 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 16:59:40.538 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 16:59:40.542 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 16:59:40.692 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 16:59:47.440 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 16:59:48.517 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 16:59:50.956 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 37.736 seconds (JVM running for 43.983)
+2016-11-07 16:59:52.506 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 17:00:02.937 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
+2016-11-07 17:09:04.725 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 3530 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 17:09:04.734 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 17:09:04.735 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 17:09:08.275 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 17:09:08.278 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 17:09:08.408 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 17:09:08.714 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 17:09:08.715 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 17:09:09.133 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 17:09:09.284 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 17:09:09.286 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 17:09:09.288 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 17:09:09.405 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 17:09:15.634 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 17:09:16.167 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 17:09:18.235 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 34.585 seconds (JVM running for 40.535)
+2016-11-07 17:09:29.863 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 17:16:43.048 [main] INFO  com.winqer.lietouku2.WebApplication - Starting WebApplication on yangdeMacBook-Pro.local with PID 3564 (/Users/yang/space/eclipse/lietouku2/target/classes started by yang in /Users/yang/space/eclipse/lietouku2)
+2016-11-07 17:16:43.121 [main] DEBUG com.winqer.lietouku2.WebApplication - Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-07 17:16:43.121 [main] INFO  com.winqer.lietouku2.WebApplication - The following profiles are active: RELEASE
+2016-11-07 17:16:52.171 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2016-11-07 17:16:52.177 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.5
+2016-11-07 17:16:52.472 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2016-11-07 17:16:53.062 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Initializing filter 'jwtFilter'
+2016-11-07 17:16:53.062 [localhost-startStop-1] DEBUG com.winqer.lietouku2.common.jwt.JwtFilter - Filter 'jwtFilter' configured successfully
+2016-11-07 17:16:53.665 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2016-11-07 17:16:53.860 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.11.Final}
+2016-11-07 17:16:53.863 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-11-07 17:16:53.866 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-11-07 17:16:53.971 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-11-07 17:17:00.472 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-11-07 17:17:01.120 [main] INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+2016-11-07 17:17:03.817 [main] INFO  com.winqer.lietouku2.WebApplication - Started WebApplication in 41.591 seconds (JVM running for 47.414)
+2016-11-07 17:17:04.070 [http-nio-127.0.0.1-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2016-11-07 17:19:55.653 [http-nio-127.0.0.1-8080-exec-2] DEBUG com.winqer.lietouku2.controller.LoginController - ....userInfo
